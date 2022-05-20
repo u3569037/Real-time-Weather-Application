@@ -1,8 +1,3 @@
-/**
- * Author: Siu Ka Sing
- * UID: 3035690373
- */
-
 document.body = document.createElement("body");
 
 //initialize the header block
